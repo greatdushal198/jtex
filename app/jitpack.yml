@@ -1,9 +1,0 @@
-jdk:
-  - openjdk11
-
-android:
-  components:
-    - tools
-    - platform-tools
-    - build-tools-30.0.3
-    - android-30
